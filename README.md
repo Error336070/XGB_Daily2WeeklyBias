@@ -1,6 +1,6 @@
 # XGBoost Daily to Weekly Bias Forecasting Model
 
-This project implements an XGBoost model to forecast weekly directional bias in financial markets using daily aggregated features.
+This project is a simple example of an XGBoost model implementation to forecast weekly directional bias in financial markets using daily aggregated features.
 
 ## Project Overview
 

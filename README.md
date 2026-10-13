@@ -2,7 +2,7 @@
 
 This project is a simple example of an XGBoost model implementation to forecast weekly directional bias in financial markets using daily aggregated features. 
 
-## Project Overview
+## Project Overview 
 
 The model uses a set of technical indicators derived from daily price action and volatility to predict either:
 1.  **Weekly Directional Bias (Classification)**: Predicts if the upcoming week will be bullish (1) or bearish (0).
